@@ -1,2 +1,6 @@
-com\airlines\main\MainClass.class
+com\airlines\impl\UserDAOImpl.class
+com\airlines\model\DBConnect.class
+com\airlines\dao\api\UserDAO.class
 com\airlines\frame\Frames.class
+com\airlines\entity\User.class
+com\airlines\main\MainClass.class
